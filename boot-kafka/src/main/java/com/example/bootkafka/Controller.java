@@ -6,6 +6,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
+import java.util.function.Predicate;
+
 /*
     Producer / publisher
  */
@@ -20,6 +22,6 @@ public class Controller {
     public void sendMessage(@RequestBody String msg) {
         System.out.println("sendMessage()");
         kafkaTemplate.send("topicName", msg);
-    }
 
+    }
 }

@@ -1,0 +1,40 @@
+
+		WE HAVE TO RESTART SKYPE
+
+
+
+DEPLOY TO APP STORE
+
+set a future deploy date , so as to only test if we pass the requirements,
+set privacy policy url - check in app store 
+
+
+TODO
+compile list of requirements for app store deployment
+
+openid connect with google keep learning
+
+prepare for sky cash integration
+
+IAC 
+terraform should create infastructure
+ansible should things needed 
+class="dark-theme md ion-page hydrated"
+
+-webkit-filter: blur(8px);
+
+https://klient.gdansk.uw.gov.pl/
+
+elogin CHikodili5060
+
+http 2
+how to isolate a service spring boot 
+compare and swap vs volatile
+what happens when you put same key to map it overrides it 
+how to communicate between two services - kafka , asynchronous communication
+
+why does io exception checked, guarantee that stream is closed.
+vhttps://www.javainuse.com/spring/boot-websocket-chat
+
+
+bin/kafka-topics.sh --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic mytopic
